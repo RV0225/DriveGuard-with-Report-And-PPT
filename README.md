@@ -1,6 +1,6 @@
 # Drowsiness-Detection-System-report-and-ppt
-# Within this repository, I have stored a mini project related to a Drowsiness Detection System, complete with its accompanying report and PowerPoint presentation (PPT).
-# Here is the link for Dataset:  https://www.kaggle.com/datasets/sajikim/shape-predictor-68-face-landmarks
+**Within this repository, I have stored a mini project related to a Drowsiness Detection System, complete with its accompanying report and PowerPoint presentation (PPT).**
+**Here is the link for Dataset:  https://www.kaggle.com/datasets/sajikim/shape-predictor-68-face-landmarks**
 
 # GUI 
 ![image](https://github.com/RV0225/Drowsiness-Detection-System-With-Report-And-PPT/assets/83663322/2ce8e7b2-464e-4458-b7b5-d7c2817b2332)
