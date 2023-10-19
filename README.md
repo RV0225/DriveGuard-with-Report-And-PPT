@@ -1,4 +1,4 @@
-# Drowsiness-Detection-System-report-and-ppt
+# DriveGuard: Drowsiness-Detection and Face-Recognition with-report-and-ppt
 **Within this repository, I have stored a mini project related to a Drowsiness Detection System, complete with its accompanying report and PowerPoint presentation (PPT).**
 **Here is the link for Dataset:  https://www.kaggle.com/datasets/sajikim/shape-predictor-68-face-landmarks**
 
